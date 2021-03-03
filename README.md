@@ -40,18 +40,30 @@
 
 <h2>Más información</h2>
 
-<p>Quizás le interese un <a href="">video en YouTube</a> con algunos ejemplos.</p>
+<ol>
+  <li>Recursos</li>
+  
+  <ol>
+    <li>Quizás le interese un <a href="">video en YouTube</a> con algunos ejemplos.</li>
+    <li>Enlace para <a href="https://cloudconvert.com/mp3-to-wav">convertir sonidos</a> .mp3 a .wav</li>
+    <li>Enlace para <a href="https://notube.net/es/convert">descargar videos de YouTube</a> (soporta formato .mp3)</li>
+  </ol>
+  
+  <li>Referencia del material usado en el repositorio</li>
+  
+  <ol>
+    <li><a href="https://www.youtube.com/watch?v=YYwjq5v-ALA">Sonido de láser</a> que usé en el repositorio.</li>
+    <li><a href="https://www.youtube.com/watch?v=GEo1zya7FyA">Sonido de background</a> que usé en el repositorio.</li>
+  </ol>
+  
+  <li>Algunos epositorios referenciados en el video.</li>
 
-<p>Enlace para <a href="https://cloudconvert.com/mp3-to-wav">convertir sonidos</a> .mp3 a .wav</p>
-
-<p>Enlace para <a href="https://notube.net/es/convert">descargar videos de YouTube</a> (soporta formato .mp3)</p>
-
-<p><a href="https://www.youtube.com/watch?v=YYwjq5v-ALA">Sonido de láser</a> que usé en el repositorio.</p>
-
-<p><a href="https://www.youtube.com/watch?v=GEo1zya7FyA">Sonido de background</a> que usé en el repositorio.</p>
-
-<p>Algunos epositorios referenciados en el video.</p>
-
-<a href="">Emulador de ATM básico</a>
-
-<a href="">Pong game in java</a>
+  <ol>
+    <li>
+      <a href="https://github.com/group-extends-ud/emulador-ATM-basico">Emulador de ATM básico</a>
+    </li>
+    <li>
+      <a href="https://github.com/JeanCarlosSC/pong">Pong game in java</a>
+    </li>
+  </ol>
+</ol>
