@@ -38,7 +38,7 @@
 
 <h2>Más información</h2>
 
-<p>Quizás le interese el <a href="">video en YouTube</a> donde uso este repositorio.</p>
+<p>Quizás le interese el <a href="https://youtu.be/ZiKH29VVO5U">video en YouTube</a> donde uso este repositorio.</p>
 
 <p>Enlace para <a href="https://cloudconvert.com/mp3-to-wav">convertir sonidos</a> .mp3 a .wav</p>
 
