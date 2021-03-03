@@ -6,11 +6,13 @@
 
 <h2>¿Cómo reproducir sonidos?</h2>
 
-<p>Primero implementamos la <a href="">clase SClip</a>.</p>
+<ol>
+  <li>Primero implementamos la <a href="https://github.com/JeanCarlosSC/sonido-en-java-2021/blob/main/src/SClip.java">clase SClip</a>.</li>
 
-<p>Ahora intanciamos objetos de SClip, cuyo argumento del constructor es <b>la ruta del sonido</b>.</p>
+  <li>Ahora intanciamos objetos de SClip, cuyo argumento del constructor es <b>la ruta del sonido</b>.</li>
 
-<p>Sólo resta hacer uso de estos objetos a través de los siguientes métodos:</p>
+  <li>Sólo resta hacer uso de estos objetos a través de los siguientes métodos:</li>
+</ol>
 
 <h3>play()</h3>
 
