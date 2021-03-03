@@ -10,8 +10,8 @@ public class Main {
 }
 
 class Window extends JFrame {
-    private SClip laser = new SClip("resources/laser.wav");
-    private SClip background = new SClip("resources/background.wav");
+    private final SClip laser = new SClip("resources/laser.wav");
+    private final SClip background = new SClip("resources/background.wav");
 
     public Window() {
         //panel
