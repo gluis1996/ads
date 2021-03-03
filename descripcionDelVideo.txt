@@ -1,0 +1,39 @@
+---------------------Sonido en java 2021-------------------
+
+Este video lo hice con el propósito de ayudar a aquellas personas que quieren empezar a usar sonidos en sus proyectos de java pero no encuentran información actualizada sobre tal procedimiento.
+
+♫ Requisitos:
+
+  Tener los sonidos en formato .wav (wave format).
+
+♫ ¿Cómo reproducir sonidos?
+
+  1. Primero implementamos la clase SClip (https://github.com/JeanCarlosSC/sonido-en-java-2021/blob/main/src/SClip.java).
+  2. Ahora intanciamos objetos de SClip, cuyo argumento del constructor es **la ruta del sonido**.
+  3. Sólo resta hacer uso de estos objetos a través de los siguientes métodos:
+
+  ♪ play(): Reproduce el sonido por única vez.
+  ♪ loop(): Reproduce el sonido en bucle hasta que sea detenido.
+  ♪ stop(): Detiene la reproducción del sonido.
+
+♫ ¿Por qué se implementa de esta forma la clase?
+
+  Usualmente los sonidos se reproducen en una interfaz gráfica de usuario, el problema de no usar hilos es que cuando reproduces un sonido el programa se queda congelado hasta que se termina la reproducción, entonces no se podrían reproducir varios sonidos a la vez, ni continuar con la ejecución común de un programa mientras reproduces un sonido. Por eso utilizamos hilos.
+
+  Las applets han sido descontinuadas por eso se usan los recursos del paquete javax.
+
+♫ Posibles problemas:
+
+  Las rutas de los sonidos dependen de cómo se ejecute el programa (de la ruta en la que se ejecute), por lo que es posible que varíe. (En este ejemplo no explicaremos ese asunto).
+
+♫ Más información:
+
+  ♪ Repositorio del código realizado en el video (https://github.com/JeanCarlosSC/sonido-en-java-2021).
+  ♪ Enlace para convertir sonidos .mp3 a .wav (https://cloudconvert.com/mp3-to-wav).
+  ♪ Enlace para descargar videos de YouTube (soporta formato .mp3)(https://notube.net/es/convert).
+  ♪ Sonido de láser que usé en el repositorio (https://www.youtube.com/watch?v=YYwjq5v-ALA).
+  ♪ Sonido de background que usé en el repositorio (https://www.youtube.com/watch?v=GEo1zya7FyA).
+
+♫ Repositorio relacionado donde uso sonidos en java:
+
+  ♪ Pong game in java (https://github.com/JeanCarlosSC/pong).

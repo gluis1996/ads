@@ -6,7 +6,7 @@
 
 <h2>¿Cómo reproducir sonidos?</h2>
 
-<p>Primero implementamos la <a href="">clase SClip</a>.</p>
+<p>Primero implementamos la <a href="https://github.com/JeanCarlosSC/sonido-en-java-2021/blob/main/src/SClip.java">clase SClip</a>.</p>
 
 <p>Ahora intanciamos objetos de SClip, cuyo argumento del constructor es <b>la ruta del sonido</b>.</p>
 
@@ -38,7 +38,7 @@
 
 <h2>Más información</h2>
 
-<p>Quizás le interese un <a href="">video en YouTube</a> con algunos ejemplos.</p>
+<p>Quizás le interese el <a href="">video en YouTube</a> donde uso este repositorio.</p>
 
 <p>Enlace para <a href="https://cloudconvert.com/mp3-to-wav">convertir sonidos</a> .mp3 a .wav</p>
 
@@ -48,8 +48,6 @@
 
 <p><a href="https://www.youtube.com/watch?v=GEo1zya7FyA">Sonido de background</a> que usé en el repositorio.</p>
 
-<p>Algunos epositorios referenciados en el video.</p>
+<p>Repositorio relacionado donde uso sonidos en java</p>
 
-<a href="">Emulador de ATM básico</a>
-
-<a href="">Pong game in java</a>
+<a href="https://github.com/JeanCarlosSC/pong">Pong game in java</a>
