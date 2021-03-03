@@ -6,11 +6,13 @@
 
 <h2>¿Cómo reproducir sonidos?</h2>
 
-<p>Primero implementamos la <a href="https://github.com/JeanCarlosSC/sonido-en-java-2021/blob/main/src/SClip.java">clase SClip</a>.</p>
+<ol>
+  <li>Primero implementamos la <a href="https://github.com/JeanCarlosSC/sonido-en-java-2021/blob/main/src/SClip.java">clase SClip</a>.</li>
 
-<p>Ahora intanciamos objetos de SClip, cuyo argumento del constructor es <b>la ruta del sonido</b>.</p>
+  <li>Ahora intanciamos objetos de SClip, cuyo argumento del constructor es <b>la ruta del sonido</b>.</li>
 
-<p>Sólo resta hacer uso de estos objetos a través de los siguientes métodos:</p>
+  <li>Sólo resta hacer uso de estos objetos a través de los siguientes métodos:</li>
+</ol>
 
 <h3>play()</h3>
 
@@ -38,16 +40,27 @@
 
 <h2>Más información</h2>
 
-<p>Quizás le interese el <a href="https://youtu.be/ZiKH29VVO5U">video en YouTube</a> donde uso este repositorio.</p>
+<ol>
+  <li>Recursos</li>
+  
+  <ol>
+    <li><a href="https://youtu.be/ZiKH29VVO5U">Video en YouTube</a> donde uso este repositorio.</li>
+    <li>Enlace para <a href="https://cloudconvert.com/mp3-to-wav">convertir sonidos</a> .mp3 a .wav</li>
+    <li>Enlace para <a href="https://notube.net/es/convert">descargar videos de YouTube</a> (soporta formato .mp3)</li>
+  </ol>
+  
+  <li>Referencia del material usado en el repositorio</li>
+  
+  <ol>
+    <li><a href="https://www.youtube.com/watch?v=YYwjq5v-ALA">Sonido de láser</a> que usé en el repositorio.</li>
+    <li><a href="https://www.youtube.com/watch?v=GEo1zya7FyA">Sonido de background</a> que usé en el repositorio.</li>
+  </ol>
+  
+  <li>Repositorio relacionado donde también uso sonidos en java.</li>
 
-<p>Enlace para <a href="https://cloudconvert.com/mp3-to-wav">convertir sonidos</a> .mp3 a .wav</p>
-
-<p>Enlace para <a href="https://notube.net/es/convert">descargar videos de YouTube</a> (soporta formato .mp3)</p>
-
-<p><a href="https://www.youtube.com/watch?v=YYwjq5v-ALA">Sonido de láser</a> que usé en el repositorio.</p>
-
-<p><a href="https://www.youtube.com/watch?v=GEo1zya7FyA">Sonido de background</a> que usé en el repositorio.</p>
-
-<p>Repositorio relacionado donde uso sonidos en java</p>
-
-<a href="https://github.com/JeanCarlosSC/pong">Pong game in java</a>
+  <ol>
+    <li>
+      <a href="https://github.com/JeanCarlosSC/pong">Pong game in java</a>
+    </li>
+  </ol>
+</ol>
